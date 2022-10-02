@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\struct2\struct2\bin\Debug\net5.0\struct2.exe
+C:\Users\Acer\source\repos\struct2\struct2\bin\Debug\net5.0\struct2.deps.json
+C:\Users\Acer\source\repos\struct2\struct2\bin\Debug\net5.0\struct2.runtimeconfig.json
+C:\Users\Acer\source\repos\struct2\struct2\bin\Debug\net5.0\struct2.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\struct2\struct2\bin\Debug\net5.0\struct2.dll
+C:\Users\Acer\source\repos\struct2\struct2\bin\Debug\net5.0\ref\struct2.dll
+C:\Users\Acer\source\repos\struct2\struct2\bin\Debug\net5.0\struct2.pdb
+C:\Users\Acer\source\repos\struct2\struct2\obj\Debug\net5.0\struct2.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\struct2\struct2\obj\Debug\net5.0\struct2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\struct2\struct2\obj\Debug\net5.0\struct2.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\struct2\struct2\obj\Debug\net5.0\struct2.AssemblyInfo.cs
+C:\Users\Acer\source\repos\struct2\struct2\obj\Debug\net5.0\struct2.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\struct2\struct2\obj\Debug\net5.0\struct2.dll
+C:\Users\Acer\source\repos\struct2\struct2\obj\Debug\net5.0\ref\struct2.dll
+C:\Users\Acer\source\repos\struct2\struct2\obj\Debug\net5.0\struct2.pdb
+C:\Users\Acer\source\repos\struct2\struct2\obj\Debug\net5.0\struct2.genruntimeconfig.cache
